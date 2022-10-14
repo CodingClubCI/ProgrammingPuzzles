@@ -12,6 +12,6 @@ Write a function that takes an Integer Array / List and returns the sum of each 
     
 <b>Contraints:</b>
 
--2^31 <= nums[i] <= 2^31 -1
+-   -2^31 <= nums[i] <= 2^31 -1
 
-0 <= len(nums) <= 2^32 
+-   0 <= len(nums) <= 2^16 
