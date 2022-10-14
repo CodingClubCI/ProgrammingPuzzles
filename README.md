@@ -3,7 +3,7 @@ Programming Puzzles
 ========
 Within this repository, You can create programming problems and/or solutions to these problems. The hope is to collaborate, learn, share and broaden your programming eloquence, focusing on the arithmatic part of programming apose to just the syntax. 
 
-Anyone can create programming problems, as well as solve them. Concider this project as the C of I version of `LeetCode.` 
+Anyone can create programming problems, as well as solve them. Consider this project as the C of I version of `LeetCode.` 
 
 ## Get Started:
 <b>Create Puzzles:</b>
