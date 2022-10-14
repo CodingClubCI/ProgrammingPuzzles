@@ -72,4 +72,4 @@ Get some inspiration from LeetCode!
 
 
 
-Created by yours truly: <b>Keion Vergara</b> 
+Created by: <b>Keion Vergara</b> 
